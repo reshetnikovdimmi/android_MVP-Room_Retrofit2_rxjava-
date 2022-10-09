@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My_Android_ISU</string>
+    <string name="Vhod">Пожалуйста, войдите в систему</string>
+    <string name="ButVhod">Вход</string>
+    <string name="login_hint">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="password_enter">Введите пароль</string>
+    <string name="password_enter_again">Введите пароль ещё раз</string>
+    <string name="login_enter">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="input_error">Ошибка ввода данных!</string>
+    <string name="email">Email</string>
+    <string name="login_register_error">Login уже занят!</string>
+    <string name="login_register_success">Успешно!</string>
+    <string name="logout">Выход</string>
+    <string name="login_error">Ошибка логина. Неверный логин или пароль.</string>
+    <string name="registration_error">Ошибка регистрации!</string>
+    <string name="registration_success">Успешно!</string>
+    <string name="request_error">Ошибка выполнения запроса!</string>
+    <string name="auto_input">Автовход</string>
+    <string name="error">Пусто</string>
+    <string name="succses">успех</string>
+    <string name="menu">MENU</string>
+    <string name="PROMO">promo</string>
+    <string name="sim_t2">SIM T2 MB</string>
+    <string name="sim_mts">SIM MTS</string>
+    <string name="sim_mf">SIM MF</string>
+    <string name="sim_t2m">SIM T2 LD</string>
+
+</resources>
